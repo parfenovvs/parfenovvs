@@ -1,12 +1,12 @@
 ## Hi, I'm Vladimir Parfenov
 
-Software Engineer and Engineering Manager. I build Android apps, backend services in Go, and experiment with AI.
+Software Engineer and Engineering Manager. I build Android apps, tools and services in Go, and experiment with AI.
 
 ## What I Do
 - Android development
-- Backend APIs
 - CLI/TUI apps & open-source
 - AI for dev processes (LLMs, automation)
+- Backend APIs
 - Team building for impactful products
 
 ## Get in Touch
