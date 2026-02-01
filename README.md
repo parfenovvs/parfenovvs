@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Vladimir Parfenov
 
-<!--
-**parfenovvs/parfenovvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer and Engineering Manager. I build Android apps, backend services in Go, and experiment with AI.
 
-Here are some ideas to get you started:
+## What I Do
+- Android development
+- Backend APIs
+- CLI/TUI apps & open-source
+- AI for dev processes (LLMs, automation)
+- Team building for impactful products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+- 📧 [parfenov.vladimir.s@gmail.com](mailto:parfenov.vladimir.s@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vladimir-parfenov/)
